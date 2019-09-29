@@ -1,0 +1,16 @@
+SSW567
+Fall 2019
+Assignment 5
+Ravi Patel
+CWID 10432313
+
+
+Tools used:
+Sonarlint
+Coverage
+Pylint
+
+During this week's assignment, I had to use coverage and sonarlint to analyze the test file (TestTriangle.py). I noticed
+that before using the test I would have underlining(warnings) done by sonarlint stating that there are spacing errors or naming errors.
+This would not cause much error but make code harder to read. After going thru the warnings I was able to fix the spacing making it cleaner.
+However, I was not able to get a percentage coverage of my code. I did run solarlint a few times but no report or log was printed.
