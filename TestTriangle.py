@@ -24,8 +24,6 @@ class TestTriangle(unittest.TestCase):
     def testTriangle3(self):
         self.assertEqual(classify_triangle(3, 4, 5), 'Right', '3,4,5 is a right triangle')
 
-    def testTriangle4(self):
-        self.assertEqual(classify_triangle(2, 2, 8 ** .5), 'Right', '2,2,sqrt(8) is a right triangle')
 
 
 if __name__ == '__main__':
